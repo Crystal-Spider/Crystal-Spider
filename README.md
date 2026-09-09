@@ -28,7 +28,7 @@ I lead and maintain **Crystal Nest**, a Minecraft modding ecosystem with project
 * CurseForge: [crystal_spider_](https://www.curseforge.com/members/crystal_spider_/projects)
 * Discord: [Crystal Nest server](https://discord.gg/BP6EdBfAmt)
 
-My mods have reached over 80 million downloads total.
+My mods have reached over 100 million downloads total.
 
 ## 🎭 Content and other things
 
