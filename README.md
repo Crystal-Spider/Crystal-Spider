@@ -14,7 +14,7 @@ During my studies, I was a scholarship recipient at **[Scuola Ortogonale](https:
 ## 💼 Work side
 
 Before focusing more on research, I worked part-time as a full-stack developer at Lynx S.p.A., mainly on banking applications using TypeScript/Angular and Java/Spring.  
-Currently, I work full-time as a research assistant in the same univeristy I studied in.
+Currently, I work full-time as a research assistant in University of Milano-Bicocca, where I also completed my Master's degree.
 
 I care a lot about clean code, reliable tooling, documentation, and maintainable project structure.
 
@@ -43,4 +43,4 @@ I keep treating my days like they have extra hours hidden somewhere... Help 💀
 ## ❤️ Support me
 
 <a href="https://www.patreon.com/crystalspider"><img alt="Patreon" src="https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/patreon/patreon512.png" width="100px"></a>
-<a href="https://ko-fi.com/crystalspider"><img alt="Ko-fi" src="https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/kofi/kofi512.png" width="100px">
+<a href="https://ko-fi.com/crystalspider"><img alt="Ko-fi" src="https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/kofi/kofi512.png" width="100px"></a>
