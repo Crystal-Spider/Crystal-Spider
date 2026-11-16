@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riccardo Chimisso, aka Crystal Spider.
 
-I'm a Computer Science master’s student at the University of Milano-Bicocca, where my current interests are mostly around quantum computing, quantum machine learning, theoretical computer science, and unconventional computing.  
-I also work as an AI Research Assistant, after spending more than four years as a full-stack developer.
+I'm a software engineer with a Master's degree in Computer Science from the University of Milano-Bicocca, where I graduated with highest honors (110/110 cum laude). My main academic interests include quantum computing, quantum machine learning, theoretical computer science, and unconventional computing.  
+I have over four years of professional experience in full-stack development, alongside research experience in AI and HCI (current occupation).
 
 ## 🎓 Academic side
 
@@ -9,18 +9,18 @@ I also work as an AI Research Assistant, after spending more than four years as 
 * Main GitHub: [Crystal-Spider](https://github.com/Crystal-Spider)
 * LinkedIn: [riccardo-chimisso](https://www.linkedin.com/in/riccardo-chimisso)
 
-I'm part of **[Scuola Ortogonale](https://www.elicsir.it/en/orthogonal-school)**, a two-year excellence program, and **[Mensa](https://en.wikipedia.org/wiki/Mensa_International)**.
+During my studies, I was a scholarship recipient at **[Scuola Ortogonale](https://www.elicsir.it/en/orthogonal-school)**, a two-year excellence program. I'm also a member of **[Mensa](https://en.wikipedia.org/wiki/Mensa_International)**.
 
 ## 💼 Work side
 
 Before focusing more on research, I worked part-time as a full-stack developer at Lynx S.p.A., mainly on banking applications using TypeScript/Angular and Java/Spring.  
-Currently, I work full-time as a research assistant in the same univeristy I study in.
+Currently, I work full-time as a research assistant in the same univeristy I studied in.
 
 I care a lot about clean code, reliable tooling, documentation, and maintainable project structure.
 
 ## ⚙️ Minecraft modding
 
-I lead and maintain **Crystal Nest**, a Minecraft modding ecosystem with projects, tooling, documentation, and release workflows.
+I created and independently maintain **Crystal Nest**, a Minecraft modding ecosystem with projects, tooling, documentation, and release workflows.
 
 * Website: [crystalnest.it](https://crystalnest.it)
 * GitHub organization: [Crystal-Nest](https://github.com/Crystal-Nest)
